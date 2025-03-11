@@ -1,4 +1,4 @@
-# M426-Don't Repeat Yourself (DRY)
+# M426-Don't Repeat Yourself (DRY) :)
 
 
 ## **What is DRY?**
